@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Figtree';
+    font-weight: 400;
+    font-style: normal;
+    src: url('https://www.thepaperstore.com/mm5/themes/thepaperstore/branches/production/public/dist/fonts/352d4d360f01c484bed2.figtree-variablefont_wght-webfont.woff') format('woff');
+}
+
+[class*="yotpo-display-"] .yotpo-review .yotpo-review-center-panel .yotpo-review-content .yotpo-read-more-text,
+[class*="yotpo-display-"][style] *,
+[class*="yotpo-display-"] input::placeholder,
+[class*="yotpo-display-"] textarea::placeholder,
+[class*="yotpo-display-"] .modal-backdrop *,
+#yotpo-mobile-filters-popup *{
+    font-family: 'figtree', sans-serif !important;
+}
